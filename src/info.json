@@ -1,6 +1,6 @@
 {
   "identifier": "com.akl.bob-plugin-akl-mojidict-translate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "category": "translate",
   "name": "MOJi辞書",
   "summary": "需要账号密码登录,自行去官网注册,好像是免费的;仅支持中日互译,适合需要学日语的小伙伴",

@@ -2,6 +2,13 @@
     "identifier": "com.akl.bob-plugin-akl-mojidict-translate",
     "versions": [
         {
+            "version": "0.0.2",
+            "desc": "增加token缓存,避免每次都重复请求登录",
+            "sha256": "349d0c1f0626a87a6a26789aa7e1893dced04d8ad6c1e9d11b2d76b199566986",
+            "url": "https://github.com/akl7777777/bob-plugin-akl-mojidict-translate/releases/download/v_0.0.2/bob-plugin-akl-mojidict-translate_v0.0.2.bobplugin",
+            "minBobVersion": "0.5.0"
+        },
+        {
             "version": "0.0.1",
             "desc": "初始版本",
             "sha256": "0018c55eac112c3413adea2c4347e620eff6560a058d8b2fe8d387dfa3ef65c0",
