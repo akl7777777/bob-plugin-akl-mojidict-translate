@@ -1,0 +1,43 @@
+{
+  "identifier": "com.akl.bob-plugin-akl-mojidict-translate",
+  "version": "0.0.1",
+  "category": "translate",
+  "name": "MOJi辞書",
+  "summary": "需要账号密码登录,自行去官网注册,好像是免费的;仅支持中日互译,适合需要学日语的小伙伴",
+  "icon": "icon.png",
+  "author": "akl7777777 <akl7777777@163.com>",
+  "homepage": "https://github.com/akl7777777/bob-plugin-akl-mojidict-translate",
+  "appcast": "https://raw.githubusercontent.com/akl7777777/bob-plugin-akl-mojidict-translate/main/appcast.json",
+  "minBobVersion": "0.5.0",
+  "options": [
+    {
+      "identifier": "desc",
+      "type": "menu",
+      "title": "描述",
+      "defaultValue": "akl7777777",
+      "menuValues": [
+        {
+          "title": "需要账号密码登录",
+          "value": "akl7777777"
+        }
+      ],
+      "desc": "需要账号密码登录,自行去官网注册,好像是免费的;仅支持中日互译,适合需要学日语的小伙伴"
+    },
+    {
+      "identifier": "mobile",
+      "type": "text",
+      "title": "手机号"
+    },
+    {
+      "identifier": "countryCode",
+      "type": "text",
+      "title": "国家码(86)",
+      "defaultValue": "86"
+    },
+    {
+      "identifier": "passwd",
+      "type": "text",
+      "title": "密码"
+    }
+  ]
+}
