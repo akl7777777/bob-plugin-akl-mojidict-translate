@@ -4,7 +4,7 @@
         {
             "version": "0.0.3",
             "desc": "新增email登录方式:填写了email则以email为登录账号,否则以手机号为登录账号",
-            "sha256": "341504597be5999bdca3bd45cb4e1e64c605e14ab04a13bb8dce9dbe486e6d9f",
+            "sha256": "52b3e999269f71193feb07d04d410d15dfad2f9e890043499a288680967c5d7b",
             "url": "https://github.com/akl7777777/bob-plugin-akl-mojidict-translate/releases/download/v_0.0.3/bob-plugin-akl-mojidict-translate_v0.0.3.bobplugin",
             "minBobVersion": "0.5.0"
         },
