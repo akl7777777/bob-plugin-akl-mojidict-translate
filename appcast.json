@@ -2,8 +2,15 @@
     "identifier": "com.akl.bob-plugin-akl-mojidict-translate",
     "versions": [
         {
+            "version": "0.0.3",
+            "desc": "新增email登录方式:填写了email则以email为登录账号,否则以手机号为登录账号",
+            "sha256": "349d0c1f0626a87a6a26789aa7e1893dced04d8ad6c1e9d11b2d76b199566986",
+            "url": "https://github.com/akl7777777/bob-plugin-akl-mojidict-translate/releases/download/v_0.0.3/bob-plugin-akl-mojidict-translate_v0.0.3.bobplugin",
+            "minBobVersion": "0.5.0"
+        },
+        {
             "version": "0.0.2",
-            "desc": "增加token缓存,避免每次都重复请求登录",
+            "desc": "增加token缓存,避免每次都重复请求登录造成风控",
             "sha256": "349d0c1f0626a87a6a26789aa7e1893dced04d8ad6c1e9d11b2d76b199566986",
             "url": "https://github.com/akl7777777/bob-plugin-akl-mojidict-translate/releases/download/v_0.0.2/bob-plugin-akl-mojidict-translate_v0.0.2.bobplugin",
             "minBobVersion": "0.5.0"

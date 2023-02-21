@@ -60,17 +60,32 @@ function translate(query, completion) {
         'Content-Type': 'application/json',
         // 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36'
       }
-
-      const loginJson = {
-        "mobile": $option.mobile,
-        "countryCode": $option.countryCode || 86,
-        "passwd": $option.passwd,
-        "_ClientVersion": "js3.4.1",
-        "_ApplicationId": "E62VyFVLMiW7kvbtVq3p",
-        "g_os": "PCWeb",
-        "g_ver": "v4.4.4.20230209",
-        "_InstallationId": "6ea34159-6061-4aef-ae20-5e55da9f752a"
+      let loginJson = {}
+      if ($option.email) {
+        // 填写了email则以email为登录账号,否则以手机号为登录账号
+        loginJson = {
+          "email": $option.email,
+          "passwd": $option.passwd,
+          "_ClientVersion": "js3.4.1",
+          "_ApplicationId": "E62VyFVLMiW7kvbtVq3p",
+          "g_os": "PCWeb",
+          "g_ver": "v4.4.4.20230209",
+          "_InstallationId": "6ea34159-6061-4aef-ae20-5e55da9f752a"
+        }
+      } else {
+        // 填写了email则以email为登录账号,否则以手机号为登录账号
+        loginJson = {
+          "mobile": $option.mobile,
+          "countryCode": $option.countryCode || 86,
+          "passwd": $option.passwd,
+          "_ClientVersion": "js3.4.1",
+          "_ApplicationId": "E62VyFVLMiW7kvbtVq3p",
+          "g_os": "PCWeb",
+          "g_ver": "v4.4.4.20230209",
+          "_InstallationId": "ba67ad7b-a78b-4b1b-bae0-36fa5683f6db"
+        }
       }
+
       const translateJson = {
         "code": 0,
         "text": translate_text,
