@@ -7,6 +7,8 @@
 
 需要百度翻译插件的朋友请看这里:[百度翻译插件](https://github.com/akl7777777/bob-plugin-akl-baidu-free-translate)
 
+需要彩云小译插件的朋友请看这里:[免秘钥彩云小译](https://github.com/akl7777777/bob-plugin-akl-caiyunxiaoyi-free-translate)
+
 bob插件主要为bob用户开发,bob是一款macOS上的翻译软件,bob官网地址:https://bobtranslate.com/
 
 
