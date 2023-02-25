@@ -1,16 +1,17 @@
 # bob-plugin-akl-mojidict-translate
 只为日语 - MOJi辞書（じしょ）   目前已收录百万云词条与10万离线高频详解词条（离线词库定期更新），另附三家权威在线词典搜索服务，以备不时之需。 MOJi辞書将围绕「体验」和「词库」进行不断改进。
 
-需要deepl插件的朋友请看这里:[deepl免token翻译插件](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)
+### bob翻译插件大合集:
 
-需要有道翻译插件的朋友请看这里:[有道翻译插件](https://github.com/akl7777777/bob-plugin-akl-youdao-free-translate)
+>[DeepL翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)
 
-需要百度翻译插件的朋友请看这里:[百度翻译插件](https://github.com/akl7777777/bob-plugin-akl-baidu-free-translate)
+>[有道翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-youdao-free-translate)
 
-需要彩云小译插件的朋友请看这里:[免秘钥彩云小译](https://github.com/akl7777777/bob-plugin-akl-caiyunxiaoyi-free-translate)
+>[百度翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-baidu-free-translate)
 
-bob插件主要为bob用户开发,bob是一款macOS上的翻译软件,bob官网地址:https://bobtranslate.com/
+>[彩云小译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-caiyunxiaoyi-free-translate)
 
+>[只为日语 - MOJi辞書（じしょ）](https://github.com/akl7777777/bob-plugin-akl-mojidict-translate)
 
 自行到官网注册账号,输入密码
 
