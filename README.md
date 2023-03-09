@@ -3,8 +3,12 @@
 
 下载地址:[MOJi辞書bobplugin](https://github.com/akl7777777/bob-plugin-akl-mojidict-translate/releases/download/v_0.0.3/bob-plugin-akl-mojidict-translate_v0.0.3.bobplugin)
 
+### 友情链接==>ChatGPT免费桌面版客户端(支持Windows,macOS)
+下载地址:[OpenAI-ChatGPT免费桌面版客户端](https://github.com/akl7777777/free-chatgpt-client-pub)
+
 ### bob翻译插件大合集:
 
+>[OpenAI ChatGPT(免秘钥)插件](https://github.com/akl7777777/bob-plugin-akl-chatgpt-free-translate)
 
 >[DeepL翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)
 
@@ -29,6 +33,7 @@
 >[Bob翻译剪切板图片的AlfredWorkflow](https://github.com/akl7777777/BobTranslateClipboard)
 
 >[Bob的Postman接口调试插件](https://github.com/akl7777777/bob-plugin-akl-postman)
+
 
 自行到官网注册账号,输入密码
 
