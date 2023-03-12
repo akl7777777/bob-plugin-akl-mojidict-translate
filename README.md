@@ -1,7 +1,7 @@
 # bob-plugin-akl-mojidict-translate
 只为日语 - MOJi辞書（じしょ）   目前已收录百万云词条与10万离线高频详解词条（离线词库定期更新），另附三家权威在线词典搜索服务，以备不时之需。 MOJi辞書将围绕「体验」和「词库」进行不断改进。
 
-下载地址:[MOJi辞書bobplugin](https://github.com/akl7777777/bob-plugin-akl-mojidict-translate/releases/download/v_0.0.3/bob-plugin-akl-mojidict-translate_v0.0.3.bobplugin)
+下载地址:[MOJi辞書bobplugin](https://github.com/akl7777777/bob-plugin-akl-mojidict-translate/releases/download/v0.0.5/bob-plugin-akl-mojidict-translate_v0.0.5.bobplugin)
 
 ### 友情链接==>ChatGPT免费桌面版客户端(支持Windows,macOS)
 下载地址:[OpenAI-ChatGPT免费桌面版客户端](https://github.com/akl7777777/free-chatgpt-client-pub)
